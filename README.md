@@ -1,4 +1,5 @@
- - 🦀 Rust is the language of the future
+ - 🦀 Rust is the goat 🐐
+ - 🤮 CMake can go in the 🗑️ 
 
 <!---
 opt-joe/opt-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
